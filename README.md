@@ -1,1 +1,1 @@
-![image not found](images/banner.png)
+![image not found](banner.png)
